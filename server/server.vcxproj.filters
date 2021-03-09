@@ -19,7 +19,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\terminal_manager2.h">
+    <ClInclude Include="terminal_manager2.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
